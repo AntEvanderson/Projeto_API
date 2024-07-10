@@ -8,6 +8,6 @@ Olá sou Evanderson, Estou comerçando minha caminhada no mundo da programação
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntEvanderson)
 
-Desenvolvi juntos com tutores (Nayanna Nara) primeiro projeto FastAPI com Python no Bootcamp DIO e Gostaria de compartilhar.
+Desenvolvi juntos com a tutore (Nayanna Nara) primeiro projeto FastAPI com Python no Bootcamp DIO e Gostaria de compartilhar.
 
-O mentoria proposta foi criar uma API assíncrona de um academia para uma competição de crossfit. Usando o framework FastAPI, irá permitir a construção eficiente dess aplicativo web, moderno, que podem ajudar a entender e lidar com operações simultâneas de maneira eficaz e escalável.
+A mentoria proposta foi criar uma API assíncrona de um academia para uma competição de crossfit. Usando o framework FastAPI, irá permitir a construção eficiente dess aplicativo web, moderno, que podem ajudar a entender e lidar com operações simultâneas de maneira eficaz e escalável.
